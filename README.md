@@ -1,2 +1,10 @@
 # seminar-tutorial2
-sadf
+
+Git good practices
+
+## Things to do
+
+* git branch
+* git switch
+* git commit
+

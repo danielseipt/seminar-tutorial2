@@ -1,0 +1,1 @@
+print('Dominik is great!')
